@@ -1,8 +1,14 @@
 [
     {
-        "nome": " ",
-        "cargo": " ",
-        "salario": ,
-        "status": " "
+        "nome": "Junior castro ",
+        "cargo": "Tecnico ",
+        "salario": 5000,
+        "status": "Ativo"
+    },
+    {
+        "nome": "Cesar ",
+        "cargo": "Assistente ",
+        "salario": 1100,
+        "status": "Ativo"
     },
 ]
